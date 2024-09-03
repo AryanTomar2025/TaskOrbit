@@ -12,11 +12,11 @@
 //import org.springframework.web.bind.annotation.RequestParam;
 //import org.springframework.web.bind.annotation.RestController;
 //
-//import com.zosh.exception.ChatException;
-//import com.zosh.exception.ProjectException;
-//import com.zosh.model.Chat;
-//import com.zosh.request.CreateChat;
-//import com.zosh.service.ChatService;
+//import com.aryan.exception.ChatException;
+//import com.aryan.exception.ProjectException;
+//import com.aryan.model.Chat;
+//import com.aryan.request.CreateChat;
+//import com.aryan.service.ChatService;
 //
 //@RestController
 //@RequestMapping("/api/chats")
